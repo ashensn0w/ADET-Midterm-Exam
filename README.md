@@ -1,6 +1,3 @@
-# ADET-Midterm-Exam
+# Testing Branch
 
-Direction: Create a github repository and then share your repository to eugeneandrew.bato@gmail.com. Place the link of your repository in the answer field below.
-
-Scenario:
-You were assigned to a project. You were ask to create 3 environments. 1 for development, 1 for testing & 1 for the production environment. How will you setup your branching in github?
+Branch off from the development branch, the testing branch functions as the testing environment. It is designated for testing new features to ensure their proper functionality before merging into the production branch. Serving as a quality control checkpoint, this branch helps identify and address any bugs or issues before they impact the final product.
